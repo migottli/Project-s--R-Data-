@@ -1,0 +1,42 @@
+Name	Stance	Activity	Gender	Race	Occupation	Location
+"Les Clark"	Pro	24	Male	White	Industry	Bakersfield
+"Juan Flores"	Anti	24	Male	Latino	NGO	Bakersfield
+"Fabian Euresti"	Anti	1	Male	Latino	Media	Bakersfield
+"Gustavo Aguirre Jr."	Anti	52	Male	Latino	NGO	Bakersfield
+"Rosanna Esparza"	Anti	12	Female	Latino	NGO	Lost Hills
+"Richard Chapman"	Pro	6	Male	White	Government	Bakersfield
+"Rickey Byrd"	Pro	0	Male	White	Industry	Bakersfield
+"Lois Henry"	Pro	12	Female	White	Media	Bakersfield
+"Gordon Nipp"	Anti	12	Male	White	NGO	
+"Jenifer Pitcher"			Female	White	WSPA	Bakersfield
+"Fred Holmes"			Male	White	AESC	Maricopa
+"June Clark"			Female	White		Bakersfield
+"Leland Whittier"			Male	White	Beverly Hills	Belridge Oil
+"Rodrigo Romo"			Male	Latino	Unemployed	Schaffter
+"Anabel Marquez"			Female	Latino	Healthcare provider	Schaffter
+"Juan's fiance"			Female	Latino	Teacher	Bakersfield
+"Paolo Lopez"			Male	Latino	Student	
+"Jose Chavez"			Male	Latino	Farmer	Bakersfield
+"Madeline Stano"			Female	White	CRPE	Oakland
+"Gerald"			Male		McFarland	Nestle
+"Marvin"			Male		Bakersfield	KERL
+"Fabian's brother"			Male	Latino	Cambridge	Teacher
+"Fabian's dad"			Male	Latino	Bakersfield	Retired
+"Gustavo's wife"			Female	Latino	Kern County Sherrif	Bakersfield
+"Cesar Campos"			Male	Latino	Dept of Toxic substances	Bakersfield
+"Gustavo Aguirre, Sr."			Male	Latino	"Director, CRPE"	Bakersfield
+"Rosanna's husband"			Male	Latino	Chef	Lost Hills
+"Ann Galen"			Female	White	Sierra Club	
+"Rosanna's friend"			Female	Latino	Former DA	Pasadena
+"Linda Parker"			Female	White	Wind & Energy Association	
+"Tim Chapa"			Male	Latino	"City manager, Arvin"	Arvin
+"Mike Turnipseed"			Male	White	Taxpayer's association	
+"Kenny Hallin"			Male	White		Bakersfield
+"John Cox"			Male	White	Bakersfield Californian	Bakersfield
+"Lewis Amestoy"			Male	White	Bakersfield Californian	Bakersfield
+"Valerie Schultz"			Female	White	Bakersfield Californian	Bakersfield
+"Robert Price"			Male	White	Bakersfield Californian	Bakersfield
+"Gordon's wife"			Female	White		Bakersfield
+"George f Peeting"			Male			Tehachapi
+"Paul Gite"			Male	White	Wind expert	Bakersfield
+"Baba Khenafeesi"			Male	Black	Lawyer	Bakersfield

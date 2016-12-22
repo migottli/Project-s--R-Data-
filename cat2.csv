@@ -1,0 +1,90 @@
+NAME,ID,ID_new,Muni_type,GNIS_ID,County,antipolicy_new
+Alfred,1538,1538,town,978665,Allegany,1
+Andes,358,358,town,978680,Delaware,1
+Arcade,694,694,town,978685,Wyoming,0
+Augusta,1495,1495,town,978696,Oneida,1
+Ava,1489,1489,town,978701,Oneida,0
+Avoca,1025,1025,village,2391531,Steuben,0
+Bainbridge,361,361,town,978705,Chenango,0
+Bethel,1441,1441,town,978730,Sullivan,1
+Binghamton,444,444,city,978733,Broome,1
+Bloomfield,922,922,village,2391553,Ontario,0
+Brant,703,703,town,978749,Erie,0
+Callicoon,1431,1431,town,978774,Sullivan,0
+Canandaigua,888,888,city,978784,Ontario,1
+Candor,367,367,town,978786,Tioga,0
+Cato,18,18,town,978801,Cayuga,0
+Clayton,296,296,town,978836,Jefferson,0
+Colchester,377,377,town,978848,Delaware,0
+Colesville,1511,1511,town,978851,Broome,0
+Conewango,820,820,town,978860,Cattaraugus,0
+Covert,1066,1066,town,978874,Seneca,0
+Delaware,1429,1429,town,978894,Sullivan,0
+Denning,1465,1465,town,978897,Ulster,0
+Dryden,43,43,town,978908,Tompkins,1
+Ellicottville,825,825,town,978934,Cattaraugus,0
+Elmira,1113,1113,city,978938,Chemung,0
+Enfield,1071,1071,town,978940,Tompkins,1
+Essex,648,648,town,978946,Essex,0
+Fenner,25,25,town,978955,Madison,0
+Florence,143,143,town,978960,Oneida,1
+Floyd,232,232,town,978962,Oneida,1
+Forestburgh,1468,1468,town,978963,Sullivan,1
+Fulton,559,559,town,978980,Schoharie,1
+Genoa,57,57,town,978994,Cayuga,1
+Gorham,917,917,town,979007,Ontario,1
+Greenville,1439,1439,town,979023,Orange,0
+Hector,1540,1540,town,979060,Schuyler,0
+Holland,736,736,town,979070,Erie,1
+Homer,62,62,town,979071,Cortland,0
+Italy,949,949,town,979098,Yates,1
+Ledyard,8,8,town,979136,Cayuga,1
+Lima and Lima,934,934,town,979150,Livingston,1
+Marcy,197,197,town,979197,Oneida,0
+Meredith,406,406,town,979210,Delaware,0
+Minden,170,170,town,979223,Montgomery,1
+Naples,947,947,town,979248,Ontario,1
+New Lisbon,174,174,town,979268,Otsego,1
+Newstead,686,686,town,979273,Erie,0
+Nichols,413,413,town,979277,Tioga,0
+Norwich,417,417,town,979297,Chenango,0
+Nunda,954,954,town,979298,Livingston,1
+Oneonta,437,437,town,979310,Otsego,0
+Orange,1032,1032,town,979315,Schuyler,0
+Oriskany Falls,1494,1494,village,2391040,Oneida,0
+Otego,420,420,town,979327,Otsego,0
+Owego,421,421,village,2391045,Tioga,1
+Oxford,422,422,town,979335,Chenango,0
+Palatine Bridge,218,218,village,2391049,Montgomery,0
+Pittsfield,208c,208,town,979371,Otsego,0
+Plattsburgh,627,627,town,979377,Clinton,0
+Pompey,74,74,town,979383,Onondaga,1
+Pulteney,1090,1090,town,979401,Steuben,0
+Remsen,226,226,town,979413,Oneida,1
+Rhinebeck,1414,1414,town,979416,Dutchess,0
+Richmondville,528,528,town,979421,Schoharie,1
+Riga,895,895,town,979423,Monroe,0
+Rouses Point,674,674,village,2391104,Clinton,0
+Savannah,102,102,town,979465,Wayne,0
+Shandaken,1359,1359,town,979484,Ulster,0
+Sharon Springs,241,241,village,2391128,Schoharie,1
+St Johnsville,234,234,town,979448,Montgomery,1
+Summerhill,71,71,town,979536,Cayuga,1
+Tioga,362,362,town,979548,Tioga,0
+Torrey,1522,1522,town,979555,Yates,1
+Triangle,438,438,town,979557,Broome,0
+Trumansburg,1099,1099,village,2391168,Tompkins,1
+Ulysses,1098,1098,town,979570,Tompkins,1
+Union Vale,1385,1385,town,979573,Dutchess,0
+Van Buren,11,11,town,979576,Onondaga,0
+Verona,44,44,town,979581,Oneida,1
+Ward,1035,1035,town,979596,Allegany,0
+Warren,230,230,town,979597,Herkimer,0
+Warwick,1218,1218,town,979600,Orange,0
+West Bloomfield,996,996,town,979618,Ontario,1
+West Winfield,258,258,village,2391211,Herkimer,0
+Western,1500,1500,town,979620,Oneida,0
+Wilson,781,781,village,2391220,Niagara,1
+Winfield,259,259,town,979650,Herkimer,0
+Woodstock,1364,1364,town,979655,Ulster,1
+Yorkshire,711,711,town,979662,Cattaraugus,1
